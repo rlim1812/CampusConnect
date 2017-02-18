@@ -1,0 +1,16 @@
+body {
+  background: url(file:///Users/ryanlim/Desktop/Web_Development/CampusConnect/features.png);
+}
+
+html {
+  height = 100%;
+}
+
+button {
+  width: 127px;
+}
+
+.button-styling {
+  margin-left: 44%;
+  margin-top: 20px;
+}

@@ -1,0 +1,63 @@
+body {
+   background: url("BakpL0.jpg");
+   background-size: cover;
+   background-position: center;
+   font-family: "Proxima Nova Regular", "Segoe UI", "Roboto", "Droid San", "Helvetica Neue", arial, sans-serif;
+}
+
+html {
+  height: 100%
+}
+
+h1 {
+  font-size: 100px;
+  font-weight: 300;
+  color: white;
+}
+
+h2 {
+  font-size: 80px;
+  font-weight: 300;
+  color: #80DDFF;
+}
+
+h3 {
+  font-size: 50px;
+  font-weight: 300;
+  color: white;
+}
+
+hr {
+  margin-top: 20px;
+}
+
+li {
+  display: inline;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+#content {
+  text-align: center;
+  padding-top: 15%;
+  text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+               0px 8px 4px rgba(0,0,0,0.1),
+               0px 18px 23px rgba(0,0,0,0.1);
+  margin-top: -55px;
+}
+
+#button-arrow{
+  background-image: url(arrow.png);
+}
+
+#search-width{
+  width: 150%;
+}
+
+#form-length{
+  width: 125%;
+}
+
+#form-margin{
+  margin-right: 45px;
+}

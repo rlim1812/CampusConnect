@@ -1,0 +1,67 @@
+body {
+  background: url(codersboi.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+html {
+  height: 100%;
+}
+
+h1 {
+  color: white;
+  font-size: 60px;
+  margin-top: -5px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+h4 {
+  text-align: center;
+  color: white;
+}
+
+div {
+  height: 20%;
+}
+
+li {
+  display: inline;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+img {
+  margin: 0 auto;
+}
+
+.div-image {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.light-purple-text {
+  color: #E5CAFC;
+}
+
+.footer-color {
+  color: #28C85E;
+}
+
+.div-container {
+  width: 100%;
+  padding-top: 100%;
+}
+
+#light-green-text {
+  color: #9CFFAA;
+}
+
+#form-margin{
+  margin-right: 45px;
+}
+
+#form-length{
+  width: 125%;
+}
